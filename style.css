@@ -1,9 +1,9 @@
 a.button {
 	margin:10px 10px;
-	overflow: hidden;
+	overflow: visible;
 	padding: 8px 10px;
 	font-size: 14px;
-	line-height: 15px;
+	line-height: 155px;
 	color: #fff;
 	background: #297d9c;
 	display: block;
